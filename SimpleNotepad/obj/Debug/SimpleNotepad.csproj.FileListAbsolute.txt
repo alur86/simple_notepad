@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SimpleNotepad.csproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SimpleNotepad.HelpAboutForm.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SimpleNotepad.SimpleNotepadForm.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SimpleNotepad.csproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
